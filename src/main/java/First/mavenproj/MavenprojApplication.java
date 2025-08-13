@@ -8,6 +8,7 @@ public class MavenprojApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MavenprojApplication.class, args);
+		System.out.println("Hello DevOps");
 	}
 
 }
